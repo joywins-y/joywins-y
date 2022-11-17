@@ -16,7 +16,11 @@ Here are some ideas to get you started:
 -->
 
 <p align="center">
-<h2 height="200px" align="center">Hi there, I'm Joy <img src="https://cdn.jsdelivr.net/gh/MaleWeb/picture/images/techblog/hi.gif" width="25"></h2>
+  <p align="right">
+    <!-- ![](https://komarev.com/ghpvc/?username=joywins-y&color=blue&style=for-the-badge) -->
+    <img src="https://komarev.com/ghpvc/?username=joywins-y&color=blue&style=for-the-badge" />
+  </p>
+  <h2 height="200px" align="center">Hi there, I'm Joy <img src="https://cdn.jsdelivr.net/gh/MaleWeb/picture/images/techblog/hi.gif" width="25"></h2>
 </p>
 
 <p align="center">
