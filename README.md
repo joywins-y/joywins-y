@@ -66,7 +66,8 @@ Here are some ideas to get you started:
 
 <br />
 
-<img align="right" alt="GIF" src="https://github.com/devSouvik/devSouvik/blob/master/gif4.gif?raw=true" width="300"/>
+<!-- <img align="right" alt="GIF" src="https://github.com/devSouvik/devSouvik/blob/master/gif4.gif?raw=true" width="300"/> -->
+<img align="right" alt="GIF" src="https://github.com/devSouvik/devSouvik/blob/master/gif3.gif?raw=true" width="300"/>
 
 # 工作经历：
 
