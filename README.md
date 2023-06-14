@@ -61,7 +61,9 @@ Here are some ideas to get you started:
    <!-- ESLint -->
    <img src="https://img.shields.io/badge/-ESLint-%234B32C3?style=flat-square&logo=eslint">
    <!-- Express -->
-   <!-- <img src="https://img.shields.io/badge/-Express-%33A2?style=flat-square&logo=Express"> -->
+   <img src="https://img.shields.io/badge/-Express-%33A2?style=flat-square&logo=Express">
+   <!-- Nest -->
+  <img src="https://img.shields.io/badge/Nest-E0234E?style=flat&logo=nestjs&logoColor=white">
 </div>
 
 <br />
